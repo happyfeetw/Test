@@ -4,7 +4,7 @@ public class HelloGit{
 		
 		System.out.println("我的第一个使用git共享的程序");
 		
-		int[] input = [9,3,7,5,4,0,10];
+		int[] input = {9,3,7,5,4,0,10};
 		System.out.println(minimalInt(input));
 		
 	}
